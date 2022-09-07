@@ -1,1 +1,1 @@
-Simple shell collaborative project
+this is readme of our simple shell project
